@@ -12,10 +12,10 @@ import (
 	"regexp"
 
 	"github.com/hashicorp/go-retryablehttp"
-	"github.com/sailpoint-oss/golang-sdk/sdk-output/beta"
-	"github.com/sailpoint-oss/golang-sdk/sdk-output/cc"
-	v2 "github.com/sailpoint-oss/golang-sdk/sdk-output/v2"
-	v3 "github.com/sailpoint-oss/golang-sdk/sdk-output/v3"
+	"github.com/sailpoint-oss/sailpoint-api-client/beta"
+	"github.com/sailpoint-oss/sailpoint-api-client/cc"
+	v2 "github.com/sailpoint-oss/sailpoint-api-client/v2"
+	v3 "github.com/sailpoint-oss/sailpoint-api-client/v3"
 )
 
 var (
