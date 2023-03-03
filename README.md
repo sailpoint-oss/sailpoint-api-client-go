@@ -89,4 +89,3 @@ func main() {
 }
 
 ```
-### See more uses of the SDK [here](./examples/sdk.go).
