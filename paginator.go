@@ -7,7 +7,7 @@ import (
 	"reflect"
 	"strings"
 
-	v3 "github.com/sailpoint-oss/golang-sdk/sdk-output/v3"
+	v3 "github.com/sailpoint-oss/sailpoint-api-client-go/v3"
 )
 
 func PaginateWithDefaults[T any](f interface{}) ([]T, *http.Response, error) {

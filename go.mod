@@ -1,4 +1,4 @@
-module github.com/sailpoint-oss/sailpoint-api-client
+module github.com/sailpoint-oss/sailpoint-api-client-go
 
 go 1.19
 
